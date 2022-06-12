@@ -5,6 +5,9 @@ repo: status # The name of this repository
 sites:
   - name: Е-досье
     url: https://e-ecolog.ru
+    
+  - name: Тест недоступного
+    url: https://e-ecolo11111111g.ru
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
