@@ -1,7 +1,7 @@
 url: https://$ML_WIKI_I_LOVE
-status: down
-code: 403
-responseTime: 146
-lastUpdated: 2022-06-30T04:02:33.547Z
+status: up
+code: 200
+responseTime: 318
+lastUpdated: 2022-06-30T04:51:23.925Z
 startTime: Sun Jun 12 2022 14:40:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
