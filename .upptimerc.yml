@@ -7,6 +7,10 @@ sites:
     url: https://e-ecolog.ru
     icon: https://e-ecolog.ru/favicon.ico
     
+  - name: Sendy
+    url: https://sendy.e-ecolog.ru
+    icon: https://sendy.e-ecolog.ru/img/favicon.png
+    
   - name: Спецтранс ЖСК
     url: http://s-z.spb.ru
     icon: https://s-z.spb.ru/favicon.ico
