@@ -18,15 +18,7 @@ sites:
   - name: Спецтранс ЖСК
     url: http://s-z.spb.ru
     icon: https://s-z.spb.ru/favicon.ico
-    
-  - name: ML WIKI I LOVE MAIN
-    url: https://$ML_WIKI_I_LOVE
-    
-  - name: ML WIKI I LOVE RU
-    url: https://ru.$ML_WIKI_I_LOVE
-    
-  - name: ML WIKI ASIA
-    url: https://$ML_WIKI_ASIA
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
