@@ -66,7 +66,7 @@
     "url": "http://s-z.spb.ru",
     "icon": "https://s-z.spb.ru/favicon.ico",
     "slug": "specztrans-zh-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
@@ -78,6 +78,7 @@
     "timeMonth": 4092,
     "timeYear": 2894,
     "dailyMinutesDown": {
+      "2022-10-29": 0,
       "2022-10-27": 41,
       "2022-09-05": 33,
       "2022-08-15": 17,
