@@ -28,10 +28,10 @@
     "url": "https://sendy.e-ecolog.ru",
     "icon": "https://sendy.e-ecolog.ru/img/favicon.png",
     "slug": "sendy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 653,
@@ -40,6 +40,7 @@
     "timeMonth": 685,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2022-11-19": 1,
       "2022-10-31": 18,
       "2022-09-10": 28
     }
