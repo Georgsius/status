@@ -28,10 +28,10 @@
     "url": "https://sendy.e-ecolog.ru",
     "icon": "https://sendy.e-ecolog.ru/img/favicon.png",
     "slug": "sendy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 672,
@@ -40,6 +40,7 @@
     "timeMonth": 635,
     "timeYear": 672,
     "dailyMinutesDown": {
+      "2022-12-23": 1,
       "2022-11-19": 46,
       "2022-10-31": 18,
       "2022-09-10": 28
@@ -50,9 +51,9 @@
     "url": "https://postal.e-ecolog.ru",
     "icon": "https://postal.e-ecolog.ru/assets/favicon-d205a81b1f6fe6e0b46758eefd42ede8640953898d36b3016862d784b0d31e3e.png",
     "slug": "postal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -62,6 +63,7 @@
     "timeMonth": 769,
     "timeYear": 851,
     "dailyMinutesDown": {
+      "2022-12-23": 0,
       "2022-09-10": 27
     }
   },
@@ -70,9 +72,9 @@
     "url": "http://s-z.spb.ru",
     "icon": "https://s-z.spb.ru/favicon.ico",
     "slug": "specztrans-zh-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -82,6 +84,7 @@
     "timeMonth": 4070,
     "timeYear": 3180,
     "dailyMinutesDown": {
+      "2022-12-23": 0,
       "2022-10-29": 18,
       "2022-10-27": 41,
       "2022-09-05": 33,
