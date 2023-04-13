@@ -15,7 +15,7 @@ sites:
     url: https://postal.e-ecolog.ru
     icon: https://postal.e-ecolog.ru/assets/favicon-d205a81b1f6fe6e0b46758eefd42ede8640953898d36b3016862d784b0d31e3e.png
     
-    - name: Спецтранс ЖСК
+  - name: Спецтранс ЖСК
     url: http://s-z.spb.ru
     icon: https://s-z.spb.ru/favicon.ico
 
