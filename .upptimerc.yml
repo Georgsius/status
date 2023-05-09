@@ -16,7 +16,7 @@ sites:
     
   - name: Спецтранс ЖСК
     url: http://s-z.spb.ru
-    icon: https://s-z.spb.ru/favicon.ico
+    icon: http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico
     
   - name: AnyQuestion (RU)
     url: https://ru.anyquestion.info/
