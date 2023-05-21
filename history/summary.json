@@ -78,11 +78,11 @@
     "icon": "http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico",
     "slug": "specztrans-zh-sk",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.73%",
+    "uptimeYear": "97.78%",
     "time": 4110,
     "timeDay": 2005,
     "timeWeek": 3108,
@@ -116,9 +116,9 @@
     "url": "https://ru.anyquestion.info/",
     "icon": "https://ru.anyquestion.info/favicon.ico",
     "slug": "any-question-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,6 +127,8 @@
     "timeWeek": 1798,
     "timeMonth": 1329,
     "timeYear": 1329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-21": 0
+    }
   }
 ]
