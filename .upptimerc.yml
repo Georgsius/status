@@ -21,6 +21,9 @@ sites:
   - name: AnyQuestion (RU)
     url: https://ru.anyquestion.info/
     icon: https://ru.anyquestion.info/favicon.ico
+    
+  - name: ANET
+    url: https://musicsperlacobla.com/
 
 
 status-website:
