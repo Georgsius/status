@@ -79,14 +79,14 @@
     "icon": "http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico",
     "slug": "specztrans-zh-sk",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.44%",
+    "uptimeYear": "98.46%",
     "time": 4043,
     "timeDay": 3167,
-    "timeWeek": 2506,
+    "timeWeek": 2515,
     "timeMonth": 2928,
     "timeYear": 4043,
     "dailyMinutesDown": {
@@ -117,9 +117,9 @@
     "url": "https://ru.anyquestion.info/",
     "icon": "https://ru.anyquestion.info/favicon.ico",
     "slug": "any-question-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,7 +128,9 @@
     "timeWeek": 890,
     "timeMonth": 1146,
     "timeYear": 1146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-07": 0
+    }
   },
   {
     "name": "ANET",
