@@ -24,6 +24,9 @@ sites:
     
   - name: ANET
     url: https://sovet-kak.ru/
+    
+  - name: Wireguard Personal
+    url: $WIREGUARD_PERSONAL_URL
 
 
 status-website:
