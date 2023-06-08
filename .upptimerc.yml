@@ -27,6 +27,7 @@ sites:
     
   - name: Wireguard Personal
     url: $WIREGUARD_PERSONAL_URL
+    icon: https://www.wireguard.com/img/icons/favicon-256.png
 
 
 status-website:
