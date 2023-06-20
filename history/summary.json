@@ -79,11 +79,11 @@
     "icon": "http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico",
     "slug": "specztrans-zh-sk",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.60%",
     "time": 3983,
     "timeDay": 2702,
     "timeWeek": 3402,
@@ -119,9 +119,9 @@
     "url": "https://ru.anyquestion.info/",
     "icon": "https://ru.anyquestion.info/favicon.ico",
     "slug": "any-question-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 964,
     "timeMonth": 1158,
     "timeYear": 1106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-20": 0
+    }
   },
   {
     "name": "ANET",
