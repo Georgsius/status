@@ -13,7 +13,7 @@
     "time": 909,
     "timeDay": 1145,
     "timeWeek": 974,
-    "timeMonth": 943,
+    "timeMonth": 933,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2023-06-25": 22,
@@ -41,7 +41,7 @@
     "time": 687,
     "timeDay": 684,
     "timeWeek": 677,
-    "timeMonth": 724,
+    "timeMonth": 720,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2023-01-25": 21,
@@ -116,18 +116,19 @@
     "url": "https://ru.anyquestion.info/",
     "icon": "https://ru.anyquestion.info/favicon.ico",
     "slug": "any-question-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "94.44%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "99.26%",
     "time": 1077,
     "timeDay": 670,
     "timeWeek": 1047,
-    "timeMonth": 972,
+    "timeMonth": 973,
     "timeYear": 1077,
     "dailyMinutesDown": {
+      "2023-07-01": 0,
       "2023-06-25": 519,
       "2023-06-24": 41
     }
