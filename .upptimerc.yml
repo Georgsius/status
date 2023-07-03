@@ -29,9 +29,12 @@ sites:
     url: $WIREGUARD_PERSONAL_URL
     icon: https://www.wireguard.com/img/icons/favicon-256.png
 
+  - name: Brain Bot
+    url: https://brainbot.info/
+    icon: https://brainbot.info/favicon.ico
+
 
 status-website:
-  # Для пересборки, и еще раз #
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
