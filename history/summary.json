@@ -82,7 +82,7 @@
     "uptimeDay": "98.76%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 3888,
     "timeDay": 2920,
     "timeWeek": 2299,
@@ -140,18 +140,20 @@
     "url": "https://sovet-kak.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/sovet-kak.ru.ico",
     "slug": "anet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 588,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 542,
-    "dailyMinutesDown": {}
+    "time": 544,
+    "timeDay": 604,
+    "timeWeek": 567,
+    "timeMonth": 562,
+    "timeYear": 544,
+    "dailyMinutesDown": {
+      "2023-07-06": 0
+    }
   },
   {
     "name": "Wireguard Personal",
