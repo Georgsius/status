@@ -36,6 +36,10 @@ sites:
   - name: Панель управления OpenAI
     url: $KEYS_MANAGER_URL
     icon: https://openai.com/favicon.ico
+    
+  - name: BigDevOps
+    url: https://bigdevops.ru/
+    icon: https://bigdevops.ru/favicon.ico
 
 
 status-website:
