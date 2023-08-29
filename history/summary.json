@@ -242,19 +242,19 @@
     "url": "https://bigdevops.ru/",
     "icon": "https://bigdevops.ru/favicon.ico",
     "slug": "big-dev-ops",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 965,
-    "timeWeek": 908,
-    "timeMonth": 908,
-    "timeYear": 908,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 1366,
+    "timeDay": 2321,
+    "timeWeek": 1366,
+    "timeMonth": 1366,
+    "timeYear": 1366,
     "dailyMinutesDown": {
-      "2023-08-29": 0
+      "2023-08-29": 23
     }
   }
 ]
