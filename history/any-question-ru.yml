@@ -1,7 +1,7 @@
 url: https://ru.anyquestion.info/
-status: up
-code: 200
-responseTime: 20688
-lastUpdated: 2023-08-29T15:59:29.434Z
+status: down
+code: 502
+responseTime: 594
+lastUpdated: 2023-08-29T16:38:13.482Z
 startTime: 2023-05-09T11:07:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
