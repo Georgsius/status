@@ -1,7 +1,7 @@
 url: https://e-ecolog.ru
-status: up
-code: 200
-responseTime: 18275
-lastUpdated: 2023-08-29T17:03:33.966Z
+status: down
+code: 502
+responseTime: 491
+lastUpdated: 2023-08-29T17:20:20.105Z
 startTime: 2022-06-12T14:05:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
