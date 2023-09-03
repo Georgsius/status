@@ -41,6 +41,10 @@ sites:
     url: https://bigdevops.ru/
     icon: https://bigdevops.ru/favicon.ico
 
+  - name: Вопрос Как
+    url: https://vopros-kak.ru/
+    icon: https://vopros-kak.ru/favicon.ico
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
