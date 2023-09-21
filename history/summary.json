@@ -161,9 +161,9 @@
     "url": "https://sovet-kak.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/sovet-kak.ru.ico",
     "slug": "anet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -172,7 +172,9 @@
     "timeWeek": 702,
     "timeMonth": 723,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   },
   {
     "name": "Wireguard Personal",
