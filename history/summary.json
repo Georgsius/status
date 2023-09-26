@@ -161,9 +161,9 @@
     "url": "https://sovet-kak.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/sovet-kak.ru.ico",
     "slug": "anet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "85.83%",
     "uptimeMonth": "96.74%",
     "uptimeYear": "99.16%",
@@ -173,6 +173,7 @@
     "timeMonth": 721,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2023-09-26": 0,
       "2023-09-23": 28,
       "2023-09-22": 461,
       "2023-09-21": 939
