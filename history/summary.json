@@ -312,19 +312,19 @@
     "url": "$KEYS_GW_MANAGER_URL",
     "icon": "https://openai.com/favicon.ico",
     "slug": "panel-upravleniya-open-ai-gw",
-    "status": "down",
-    "uptime": "88.69%",
-    "uptimeDay": "88.69%",
-    "uptimeWeek": "88.69%",
-    "uptimeMonth": "88.69%",
-    "uptimeYear": "88.69%",
-    "time": 504,
-    "timeDay": 504,
-    "timeWeek": 504,
-    "timeMonth": 504,
-    "timeYear": 504,
+    "status": "up",
+    "uptime": "66.79%",
+    "uptimeDay": "66.79%",
+    "uptimeWeek": "66.79%",
+    "uptimeMonth": "66.79%",
+    "uptimeYear": "66.79%",
+    "time": 669,
+    "timeDay": 669,
+    "timeWeek": 669,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-10-15": 3
+      "2023-10-15": 12
     }
   },
   {
