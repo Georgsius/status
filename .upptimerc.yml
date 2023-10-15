@@ -46,7 +46,7 @@ sites:
     icon: https://vopros-kak.ru/favicon.ico
 
   - name: Панель управления OpenAI (GW)
-    url: $KEYS_MANAGER_URL_GW
+    url: $KEYS_GW_MANAGER_URL
     icon: https://openai.com/favicon.ico
 
   - name: GroupWeb
