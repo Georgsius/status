@@ -45,6 +45,14 @@ sites:
     url: https://vopros-kak.ru/
     icon: https://vopros-kak.ru/favicon.ico
 
+  - name: Панель управления OpenAI (GW)
+    url: $KEYS_MANAGER_URL_GW
+    icon: https://openai.com/favicon.ico
+
+  - name: GroupWeb
+    url: https://groupweb.ru/
+    icon: https://groupweb.ru/favicon.ico
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
