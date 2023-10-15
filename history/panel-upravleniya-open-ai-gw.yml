@@ -1,7 +1,7 @@
-url: $KEYS_MANAGER_URL_GW
+url: $KEYS_GW_MANAGER_URL
 status: down
-code: 404
-responseTime: 196
-lastUpdated: 2023-10-15T10:28:12.422Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-10-15T10:30:46.485Z
 startTime: 2023-10-15T10:05:20.136Z
 generator: Upptime <https://github.com/upptime/upptime>
