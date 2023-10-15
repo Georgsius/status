@@ -312,18 +312,20 @@
     "url": "$KEYS_MANAGER_URL_GW",
     "icon": "https://openai.com/favicon.ico",
     "slug": "panel-upravleniya-open-ai-gw",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 811,
-    "timeWeek": 811,
-    "timeMonth": 811,
-    "timeYear": 811,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.42%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
+    "time": 504,
+    "timeDay": 504,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504,
+    "dailyMinutesDown": {
+      "2023-10-15": 0
+    }
   },
   {
     "name": "GroupWeb",
