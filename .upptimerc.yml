@@ -53,6 +53,10 @@ sites:
     url: https://groupweb.ru/
     icon: https://groupweb.ru/favicon.ico
 
+  - name: BiBiBus
+    url: https://bibibus.ru/
+    icon: https://bibibus.ru/favicon.ico
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
