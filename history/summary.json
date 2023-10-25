@@ -12,7 +12,7 @@
     "uptimeYear": "99.83%",
     "time": 1081,
     "timeDay": 671,
-    "timeWeek": 644,
+    "timeWeek": 645,
     "timeMonth": 613,
     "timeYear": 1139,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.91%",
     "time": 939,
     "timeDay": 653,
-    "timeWeek": 2216,
+    "timeWeek": 566,
     "timeMonth": 988,
     "timeYear": 986,
     "dailyMinutesDown": {
@@ -149,7 +149,7 @@
     "uptimeYear": "99.49%",
     "time": 1176,
     "timeDay": 759,
-    "timeWeek": 664,
+    "timeWeek": 688,
     "timeMonth": 712,
     "timeYear": 1176,
     "dailyMinutesDown": {
@@ -255,7 +255,7 @@
     "uptimeYear": "99.67%",
     "time": 1144,
     "timeDay": 880,
-    "timeWeek": 760,
+    "timeWeek": 717,
     "timeMonth": 784,
     "timeYear": 1144,
     "dailyMinutesDown": {
@@ -274,9 +274,9 @@
     "url": "https://bigdevops.ru/",
     "icon": "https://bigdevops.ru/favicon.ico",
     "slug": "big-dev-ops",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.62%",
@@ -286,6 +286,7 @@
     "timeMonth": 925,
     "timeYear": 1052,
     "dailyMinutesDown": {
+      "2023-10-25": 1,
       "2023-10-08": 16,
       "2023-09-30": 269,
       "2023-09-29": 35,
