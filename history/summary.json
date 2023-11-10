@@ -13,7 +13,7 @@
     "time": 1065,
     "timeDay": 672,
     "timeWeek": 654,
-    "timeMonth": 642,
+    "timeMonth": 641,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2023-11-08": 19,
@@ -54,7 +54,7 @@
     "time": 927,
     "timeDay": 558,
     "timeWeek": 586,
-    "timeMonth": 965,
+    "timeMonth": 973,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2023-10-12": 76,
@@ -108,7 +108,7 @@
     "time": 3428,
     "timeDay": 1361,
     "timeWeek": 1886,
-    "timeMonth": 2296,
+    "timeMonth": 2069,
     "timeYear": 3603,
     "dailyMinutesDown": {
       "2023-10-08": 17,
@@ -147,7 +147,7 @@
     "time": 1145,
     "timeDay": 500,
     "timeWeek": 709,
-    "timeMonth": 710,
+    "timeMonth": 706,
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2023-11-08": 19,
@@ -225,18 +225,19 @@
     "url": "https://brainbot.info/",
     "icon": "https://brainbot.info/favicon.ico",
     "slug": "brain-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 594,
-    "timeDay": 553,
+    "timeDay": 567,
     "timeWeek": 577,
     "timeMonth": 570,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2023-11-10": 0,
       "2023-09-23": 27
     }
   },
@@ -254,7 +255,7 @@
     "time": 1096,
     "timeDay": 887,
     "timeWeek": 765,
-    "timeMonth": 781,
+    "timeMonth": 780,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2023-11-08": 19,
@@ -274,15 +275,15 @@
     "icon": "https://bigdevops.ru/favicon.ico",
     "slug": "big-dev-ops",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 1029,
     "timeDay": 743,
     "timeWeek": 898,
-    "timeMonth": 927,
+    "timeMonth": 921,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2023-10-08": 16,
@@ -305,7 +306,7 @@
     "time": 1075,
     "timeDay": 825,
     "timeWeek": 1043,
-    "timeMonth": 1059,
+    "timeMonth": 1054,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2023-09-30": 269
