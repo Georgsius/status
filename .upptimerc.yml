@@ -56,6 +56,10 @@ sites:
   - name: BiBiBus
     url: https://bibibus.ru/
     icon: https://bibibus.ru/favicon.ico
+    
+  - name: TrustyTalk
+    url: https://trustytalk.com/
+    icon: https://rustytalk.com/favicon.ico
 
 
 status-website:
