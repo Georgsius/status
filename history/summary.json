@@ -95,7 +95,7 @@
     "icon": "http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico",
     "slug": "specztrans-zh-sk",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -171,7 +171,7 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 693,
     "timeDay": 614,
@@ -222,9 +222,9 @@
     "url": "https://brainbot.info/",
     "icon": "https://brainbot.info/favicon.ico",
     "slug": "brain-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -234,6 +234,7 @@
     "timeMonth": 627,
     "timeYear": 636,
     "dailyMinutesDown": {
+      "2024-02-15": 0,
       "2023-09-23": 27
     }
   },
@@ -375,7 +376,7 @@
     "uptimeYear": "99.84%",
     "time": 1128,
     "timeDay": 1155,
-    "timeWeek": 1082,
+    "timeWeek": 946,
     "timeMonth": 1128,
     "timeYear": 1128,
     "dailyMinutesDown": {
