@@ -59,7 +59,13 @@ sites:
     
   - name: TrustyTalk
     url: https://trustytalk.com/
-    icon: https://rustytalk.com/favicon.ico
+    icon: https://trustytalk.com/favicon.ico
+
+  - name: Thumbor TT
+    url: http://80.76.60.25/healthcheck
+
+  - name: Image Bucket TT
+    url: https://b.trustytalk.com/robots.txt
 
 
 status-website:
