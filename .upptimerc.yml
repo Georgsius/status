@@ -17,11 +17,7 @@ sites:
   - name: Спецтранс ЖСК
     url: http://s-z.spb.ru
     icon: http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico
-    
-  - name: AnyQuestion (RU)
-    url: https://ru.anyquestion.info/
-    icon: https://ru.anyquestion.info/favicon.ico
-    
+
   - name: ANET
     url: https://sovet-kak.ru/
     
@@ -44,10 +40,6 @@ sites:
   - name: Вопрос Как
     url: https://vopros-kak.ru/
     icon: https://vopros-kak.ru/favicon.ico
-
-  - name: Панель управления OpenAI (GW)
-    url: $KEYS_GW_MANAGER_URL
-    icon: https://openai.com/favicon.ico
 
   - name: GroupWeb
     url: https://groupweb.ru/
