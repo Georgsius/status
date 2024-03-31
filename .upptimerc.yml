@@ -41,14 +41,6 @@ sites:
     url: https://vopros-kak.ru/
     icon: https://vopros-kak.ru/favicon.ico
 
-  - name: GroupWeb
-    url: https://groupweb.ru/
-    icon: https://groupweb.ru/favicon.ico
-
-  - name: BiBiBus
-    url: https://bibibus.ru/
-    icon: https://bibibus.ru/favicon.ico
-    
   - name: TrustyTalk
     url: https://trustytalk.com/
     icon: https://trustytalk.com/favicon.ico
