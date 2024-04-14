@@ -50,9 +50,9 @@ sites:
 
   - name: Image Bucket TT
     url: https://b.trustytalk.com/robots.txt
-
+    
   - name: Atom News
-    url: http://online-wars.ru/up
+    url: https://online-wars.ru/up
 
 
 status-website:
