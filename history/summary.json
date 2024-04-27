@@ -99,7 +99,7 @@
     "icon": "http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico",
     "slug": "specztrans-zh-sk",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -323,9 +323,9 @@
     "url": "https://b.trustytalk.com/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/b.trustytalk.com.ico",
     "slug": "image-bucket-tt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -335,6 +335,7 @@
     "timeMonth": 1203,
     "timeYear": 1196,
     "dailyMinutesDown": {
+      "2024-04-27": 0,
       "2024-03-29": 20
     }
   },
