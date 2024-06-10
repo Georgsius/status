@@ -54,6 +54,9 @@ sites:
   - name: Atom
     url: https://online-wars.ru/up
 
+  - name: DEV DC
+    url: https://dwarf.crzy.ru/up
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
