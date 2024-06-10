@@ -1,7 +1,7 @@
 url: https://dwarf.crzy.ru/up
-status: up
-code: 200
-responseTime: 726
-lastUpdated: 2024-06-10T11:39:40.335Z
+status: down
+code: 500
+responseTime: 1734
+lastUpdated: 2024-06-10T19:24:52.366Z
 startTime: 2024-06-10T11:39:39.606Z
 generator: Upptime <https://github.com/upptime/upptime>
