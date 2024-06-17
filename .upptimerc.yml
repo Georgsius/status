@@ -18,9 +18,6 @@ sites:
     url: http://s-z.spb.ru
     icon: http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico
 
-  - name: ANET
-    url: https://sovet-kak.ru/
-    
   - name: Wireguard Personal
     url: $WIREGUARD_PERSONAL_URL
     icon: https://www.wireguard.com/img/icons/favicon-256.png
@@ -33,14 +30,6 @@ sites:
     url: $KEYS_MANAGER_URL
     icon: https://openai.com/favicon.ico
     
-  - name: BigDevOps
-    url: https://bigdevops.ru/
-    icon: https://bigdevops.ru/favicon.ico
-
-  - name: Вопрос Как
-    url: https://vopros-kak.ru/
-    icon: https://vopros-kak.ru/favicon.ico
-
   - name: TrustyTalk
     url: https://trustytalk.com/
     icon: https://trustytalk.com/favicon.ico
