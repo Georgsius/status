@@ -1,7 +1,7 @@
 url: $KEYS_MANAGER_URL
-status: down
-code: 502
-responseTime: 513
-lastUpdated: 2024-06-24T13:13:55.473Z
+status: up
+code: 200
+responseTime: 952
+lastUpdated: 2024-06-24T13:25:52.646Z
 startTime: 2023-07-28T20:55:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
