@@ -49,10 +49,10 @@ sites:
   - name: Dwarf Capital
     url: https://dwarf.capital/up
 
-  - name: Tinyproxy
+  - name: Tinyp
     check: "tcp-ping"
     url: 147.45.227.73
-    port: 80
+    port: 7766
 
 
 status-website:
