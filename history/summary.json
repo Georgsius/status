@@ -53,7 +53,7 @@
     "time": 871,
     "timeDay": 617,
     "timeWeek": 594,
-    "timeMonth": 828,
+    "timeMonth": 833,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2024-07-01": 16,
@@ -195,7 +195,7 @@
     "time": 998,
     "timeDay": 806,
     "timeWeek": 787,
-    "timeMonth": 1174,
+    "timeMonth": 1181,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2024-07-01": 16,
@@ -344,19 +344,19 @@
     "url": "147.45.227.73",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tinyp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 113,
-    "timeDay": 108,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 115,
+    "timeDay": 113,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-07-21": 0
+      "2024-07-21": 13
     }
   }
 ]
