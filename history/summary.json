@@ -344,19 +344,19 @@
     "url": "147.45.227.73",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tinyp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 110,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 109,
     "timeDay": 99,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-07-21": 0
+      "2024-07-21": 14
     }
   }
 ]
