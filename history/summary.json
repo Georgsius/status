@@ -13,7 +13,7 @@
     "time": 1015,
     "timeDay": 688,
     "timeWeek": 675,
-    "timeMonth": 898,
+    "timeMonth": 914,
     "timeYear": 1027,
     "dailyMinutesDown": {
       "2024-07-01": 16,
@@ -53,7 +53,7 @@
     "time": 871,
     "timeDay": 534,
     "timeWeek": 594,
-    "timeMonth": 834,
+    "timeMonth": 849,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2024-07-01": 16,
@@ -195,7 +195,7 @@
     "time": 998,
     "timeDay": 823,
     "timeWeek": 812,
-    "timeMonth": 1184,
+    "timeMonth": 1202,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2024-07-01": 16,
@@ -344,17 +344,19 @@
     "url": "147.45.227.73",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tinyp",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 113,
+    "timeDay": 127,
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-22": 0
+    }
   }
 ]
