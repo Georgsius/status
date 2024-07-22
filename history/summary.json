@@ -13,7 +13,7 @@
     "time": 1015,
     "timeDay": 688,
     "timeWeek": 675,
-    "timeMonth": 914,
+    "timeMonth": 859,
     "timeYear": 1027,
     "dailyMinutesDown": {
       "2024-07-01": 16,
@@ -53,7 +53,7 @@
     "time": 871,
     "timeDay": 534,
     "timeWeek": 594,
-    "timeMonth": 849,
+    "timeMonth": 663,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2024-07-01": 16,
@@ -111,7 +111,7 @@
     "icon": "http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico",
     "slug": "specztrans-zh-sk",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -195,7 +195,7 @@
     "time": 998,
     "timeDay": 823,
     "timeWeek": 812,
-    "timeMonth": 1202,
+    "timeMonth": 991,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2024-07-01": 16,
@@ -344,19 +344,19 @@
     "url": "147.45.227.73",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tinyp",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 113,
     "timeDay": 121,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-07-22": 6
+      "2024-07-22": 0
     }
   }
 ]
