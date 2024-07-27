@@ -332,7 +332,7 @@
     "time": 881,
     "timeDay": 672,
     "timeWeek": 849,
-    "timeMonth": 881,
+    "timeMonth": 887,
     "timeYear": 881,
     "dailyMinutesDown": {
       "2024-06-24": 23
@@ -343,19 +343,19 @@
     "url": "147.45.227.73",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tinyp",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 108,
-    "timeDay": 111,
-    "timeWeek": 105,
+    "timeDay": 117,
+    "timeWeek": 106,
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-07-27": 13,
+      "2024-07-27": 0,
       "2024-07-23": 16,
       "2024-07-22": 19
     }
