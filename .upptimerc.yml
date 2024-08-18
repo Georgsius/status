@@ -54,6 +54,10 @@ sites:
     url: 147.45.227.73
     port: 7766
 
+  - name: SP
+    url: $SP_URL
+    icon: https://telegram.org/img/favicon.ico
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
