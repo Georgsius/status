@@ -347,19 +347,19 @@
     "url": "$SP_URL",
     "icon": "https://telegram.org/img/favicon.ico",
     "slug": "sp",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 681,
     "timeDay": 714,
     "timeWeek": 661,
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2024-09-05": 5
+      "2024-09-05": 0
     }
   }
 ]
