@@ -348,18 +348,19 @@
     "icon": "https://telegram.org/img/favicon.ico",
     "slug": "sp",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 681,
     "timeDay": 714,
     "timeWeek": 661,
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2024-09-05": 0
+      "2024-09-06": 36,
+      "2024-09-05": 2
     }
   }
 ]
