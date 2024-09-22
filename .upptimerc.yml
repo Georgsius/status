@@ -14,10 +14,6 @@ sites:
     url: https://postal.e-ecolog.ru
     icon: https://postal.e-ecolog.ru/assets/favicon-d205a81b1f6fe6e0b46758eefd42ede8640953898d36b3016862d784b0d31e3e.png
     
-  - name: Спецтранс ЖСК
-    url: http://s-z.spb.ru
-    icon: http://s-z.spb.ru/wp-content/uploads/2012/02/favicon.ico
-
   - name: Wireguard Personal
     url: $WIREGUARD_PERSONAL_URL
     icon: https://www.wireguard.com/img/icons/favicon-256.png
