@@ -43,7 +43,7 @@
     "timeDay": 509,
     "timeWeek": 566,
     "timeMonth": 543,
-    "timeYear": 697,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2024-07-01": 16,
       "2024-06-30": 17,
@@ -140,7 +140,7 @@
     "icon": "https://openai.com/favicon.ico",
     "slug": "panel-upravleniya-open-ai",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -253,9 +253,9 @@
     "url": "https://dwarf.crzy.ru/up",
     "icon": "https://icons.duckduckgo.com/ip3/dwarf.crzy.ru.ico",
     "slug": "dev-dc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -264,7 +264,9 @@
     "timeWeek": 896,
     "timeMonth": 832,
     "timeYear": 825,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "Dwarf Capital",
@@ -313,18 +315,18 @@
     "icon": "https://telegram.org/img/favicon.ico",
     "slug": "sp",
     "status": "down",
-    "uptime": "56.37%",
+    "uptime": "55.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.29%",
-    "uptimeYear": "56.37%",
+    "uptimeMonth": "23.43%",
+    "uptimeYear": "55.76%",
     "time": 693,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 662,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-10-10": 38,
+      "2024-10-10": 855,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
