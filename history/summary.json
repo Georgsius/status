@@ -85,9 +85,9 @@
     "slug": "wireguard-personal",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "82.01%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "81.72%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.94%",
     "time": 354,
     "timeDay": 888,
@@ -95,7 +95,7 @@
     "timeMonth": 396,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-12-26": 259,
+      "2024-12-26": 264,
       "2024-12-25": 16,
       "2024-11-14": 41
     }
@@ -312,19 +312,19 @@
     "url": "147.45.227.73",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tinyp",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "90.43%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.92%",
     "time": 115,
     "timeDay": 238,
     "timeWeek": 183,
     "timeMonth": 157,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-12-26": 138,
+      "2024-12-26": 142,
       "2024-07-23": 16,
       "2024-07-22": 19
     }
@@ -346,7 +346,7 @@
     "timeMonth": 0,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-12-26": 885,
+      "2024-12-26": 889,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
