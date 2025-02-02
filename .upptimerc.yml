@@ -30,6 +30,10 @@ sites:
     url: https://trustytalk.com/
     icon: https://trustytalk.com/favicon.ico
 
+  - name: TrustyTalk Telegram
+    url: https://t.trustytalk.com/up
+    icon: https://trustytalk.com/favicon.ico
+
   - name: Thumbor TT
     url: http://80.76.60.25/healthcheck
 
@@ -49,10 +53,6 @@ sites:
     check: "tcp-ping"
     url: 147.45.227.73
     port: 7766
-
-  - name: SP
-    url: $SP_URL
-    icon: https://telegram.org/img/favicon.ico
 
   - name: DEV Balagan
     url: https://dev.playbalagan.com/up
