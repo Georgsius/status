@@ -210,19 +210,19 @@
     "url": "http://80.76.60.25/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/80.76.60.25.ico",
     "slug": "thumbor-tt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 362,
-    "timeWeek": 276,
-    "timeMonth": 268,
+    "timeDay": 298,
+    "timeWeek": 270,
+    "timeMonth": 267,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-03-09": 0
+      "2025-03-09": 15
     }
   },
   {
