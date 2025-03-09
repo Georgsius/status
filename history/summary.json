@@ -210,9 +210,9 @@
     "url": "http://80.76.60.25/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/80.76.60.25.ico",
     "slug": "thumbor-tt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -221,7 +221,9 @@
     "timeWeek": 276,
     "timeMonth": 268,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-09": 0
+    }
   },
   {
     "name": "Image Bucket TT",
@@ -277,11 +279,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dwarf.crzy.ru.ico",
     "slug": "dev-dc",
     "status": "up",
-    "uptime": "94.01%",
+    "uptime": "94.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.01%",
+    "uptimeYear": "94.02%",
     "time": 908,
     "timeDay": 984,
     "timeWeek": 784,
