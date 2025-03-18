@@ -173,19 +173,19 @@
     "url": "https://trustytalk.com/",
     "icon": "https://trustytalk.com/favicon.ico",
     "slug": "trusty-talk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1140,
-    "timeDay": 751,
-    "timeWeek": 1070,
-    "timeMonth": 1178,
-    "timeYear": 1152,
+    "time": 1149,
+    "timeDay": 2834,
+    "timeWeek": 1551,
+    "timeMonth": 1307,
+    "timeYear": 1162,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 16
     }
   },
   {
