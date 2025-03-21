@@ -74,7 +74,7 @@
     "timeDay": 743,
     "timeWeek": 751,
     "timeMonth": 767,
-    "timeYear": 767,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2024-12-09": 21,
       "2024-06-01": 22
@@ -95,7 +95,7 @@
     "timeDay": 308,
     "timeWeek": 306,
     "timeMonth": 312,
-    "timeYear": 365,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2025-01-12": 15,
       "2024-12-28": 404,
@@ -120,7 +120,7 @@
     "timeDay": 618,
     "timeWeek": 580,
     "timeMonth": 607,
-    "timeYear": 1147,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2024-12-28": 160,
       "2024-12-27": 39,
@@ -220,7 +220,7 @@
     "timeDay": 268,
     "timeWeek": 270,
     "timeMonth": 273,
-    "timeYear": 279,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -228,9 +228,9 @@
     "url": "https://b.trustytalk.com/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/b.trustytalk.com.ico",
     "slug": "image-bucket-tt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -240,6 +240,7 @@
     "timeMonth": 1131,
     "timeYear": 1299,
     "dailyMinutesDown": {
+      "2025-03-21": 1,
       "2025-02-18": 20,
       "2025-01-23": 35,
       "2024-10-17": 17,
@@ -277,11 +278,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dwarf.crzy.ru.ico",
     "slug": "dev-dc",
     "status": "up",
-    "uptime": "94.26%",
+    "uptime": "94.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.26%",
+    "uptimeYear": "94.27%",
     "time": 903,
     "timeDay": 863,
     "timeWeek": 810,
