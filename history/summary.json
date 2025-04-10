@@ -162,10 +162,10 @@
     "url": "https://trustytalk.com/",
     "icon": "https://trustytalk.com/favicon.ico",
     "slug": "trusty-talk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1155,
@@ -174,6 +174,7 @@
     "timeMonth": 1340,
     "timeYear": 1174,
     "dailyMinutesDown": {
+      "2025-04-10": 3,
       "2025-03-18": 16
     }
   },
@@ -218,10 +219,10 @@
     "url": "https://b.trustytalk.com/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/b.trustytalk.com.ico",
     "slug": "image-bucket-tt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1301,
@@ -230,6 +231,7 @@
     "timeMonth": 1213,
     "timeYear": 1305,
     "dailyMinutesDown": {
+      "2025-04-10": 2,
       "2025-02-18": 20,
       "2025-01-23": 35,
       "2024-10-17": 17,
@@ -245,10 +247,10 @@
     "url": "https://online-wars.ru/up",
     "icon": "https://icons.duckduckgo.com/ip3/online-wars.ru.ico",
     "slug": "atom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 817,
@@ -257,6 +259,7 @@
     "timeMonth": 804,
     "timeYear": 817,
     "dailyMinutesDown": {
+      "2025-04-10": 1,
       "2024-05-04": 17
     }
   },
@@ -302,10 +305,10 @@
     "url": "https://dwarf.capital/up",
     "icon": "https://icons.duckduckgo.com/ip3/dwarf.capital.ico",
     "slug": "dwarf-capital",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 882,
@@ -314,6 +317,7 @@
     "timeMonth": 1120,
     "timeYear": 882,
     "dailyMinutesDown": {
+      "2025-04-10": 1,
       "2024-06-24": 23
     }
   },
