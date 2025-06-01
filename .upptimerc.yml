@@ -63,6 +63,12 @@ sites:
   - name: АртЭко
     url: https://artecospb.ru/up
 
+  - name: AiPush.Bid
+    url: https://aipush.bid/up
+
+  - name: DEV CosmoDocs
+    url: https://dev.cosmodocs.ru
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
