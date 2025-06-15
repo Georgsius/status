@@ -367,19 +367,19 @@
     "url": "https://bibliofan.ru/up",
     "icon": "https://icons.duckduckgo.com/ip3/bibliofan.ru.ico",
     "slug": "bibliofan",
-    "status": "down",
-    "uptime": "1.94%",
-    "uptimeDay": "1.94%",
-    "uptimeWeek": "1.94%",
-    "uptimeMonth": "1.94%",
-    "uptimeYear": "1.94%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.47%",
+    "uptimeDay": "0.47%",
+    "uptimeWeek": "0.47%",
+    "uptimeMonth": "0.47%",
+    "uptimeYear": "0.47%",
+    "time": 728,
+    "timeDay": 728,
+    "timeWeek": 728,
+    "timeMonth": 728,
+    "timeYear": 728,
     "dailyMinutesDown": {
-      "2025-06-15": 1
+      "2025-06-15": 77
     }
   }
 ]
