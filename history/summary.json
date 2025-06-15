@@ -151,9 +151,9 @@
     "slug": "trusty-talk",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1207,
     "timeDay": 2985,
@@ -161,7 +161,6 @@
     "timeMonth": 1793,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2025-06-14": 10,
       "2025-03-18": 16
     }
   },
@@ -254,7 +253,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dwarf.crzy.ru.ico",
     "slug": "dev-dc",
     "status": "up",
-    "uptime": "95.59%",
+    "uptime": "95.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
