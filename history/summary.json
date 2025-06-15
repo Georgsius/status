@@ -368,18 +368,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bibliofan.ru.ico",
     "slug": "bibliofan",
     "status": "down",
-    "uptime": "4.28%",
-    "uptimeDay": "4.28%",
-    "uptimeWeek": "4.28%",
-    "uptimeMonth": "4.28%",
-    "uptimeYear": "4.28%",
+    "uptime": "1.94%",
+    "uptimeDay": "1.94%",
+    "uptimeWeek": "1.94%",
+    "uptimeMonth": "1.94%",
+    "uptimeYear": "1.94%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-15": 0
+      "2025-06-15": 1
     }
   }
 ]
