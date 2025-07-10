@@ -26,9 +26,9 @@
     "slug": "sendy",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
     "timeDay": 1486,
@@ -36,7 +36,6 @@
     "timeMonth": 667,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2025-07-09": 5,
       "2025-01-08": 17
     }
   },
@@ -121,9 +120,9 @@
     "slug": "panel-upravleniya-open-ai",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 843,
     "timeDay": 2163,
@@ -131,7 +130,6 @@
     "timeMonth": 846,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2025-07-09": 5,
       "2025-01-08": 16,
       "2024-12-01": 17
     }
