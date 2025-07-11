@@ -139,18 +139,19 @@
     "url": "https://trustytalk.com/",
     "icon": "https://trustytalk.com/favicon.ico",
     "slug": "trusty-talk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1232,
+    "time": 1233,
     "timeDay": 1331,
     "timeWeek": 1258,
     "timeMonth": 1676,
     "timeYear": 1266,
     "dailyMinutesDown": {
+      "2025-07-11": 1,
       "2025-03-18": 16
     }
   },
@@ -208,7 +209,7 @@
     "timeDay": 899,
     "timeWeek": 1203,
     "timeMonth": 1607,
-    "timeYear": 1301,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2025-06-17": 53,
       "2025-02-18": 20,
@@ -267,10 +268,10 @@
     "url": "https://dev.playbalagan.com/up",
     "icon": "https://icons.duckduckgo.com/ip3/dev.playbalagan.com.ico",
     "slug": "dev-balagan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 794,
@@ -278,7 +279,9 @@
     "timeWeek": 779,
     "timeMonth": 838,
     "timeYear": 794,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 1
+    }
   },
   {
     "name": "TG Agents",
@@ -358,11 +361,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bibliofan.ru.ico",
     "slug": "bibliofan",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 1207,
     "timeDay": 725,
     "timeWeek": 874,
