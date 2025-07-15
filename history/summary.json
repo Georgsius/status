@@ -4,11 +4,11 @@
     "url": "https://e-ecolog.ru",
     "icon": "https://e-ecolog.ru/favicon.ico",
     "slug": "e-dose",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 697,
     "timeDay": 794,
@@ -16,6 +16,7 @@
     "timeMonth": 717,
     "timeYear": 605,
     "dailyMinutesDown": {
+      "2025-07-15": 5,
       "2025-01-08": 19
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://sendy.e-ecolog.ru",
     "icon": "https://sendy.e-ecolog.ru/img/favicon.png",
     "slug": "sendy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 617,
     "timeDay": 1055,
@@ -36,6 +37,7 @@
     "timeMonth": 707,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2025-07-15": 5,
       "2025-01-08": 17
     }
   },
@@ -44,11 +46,11 @@
     "url": "https://postal.e-ecolog.ru",
     "icon": "https://postal.e-ecolog.ru/assets/favicon-d205a81b1f6fe6e0b46758eefd42ede8640953898d36b3016862d784b0d31e3e.png",
     "slug": "postal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 779,
     "timeDay": 906,
@@ -56,6 +58,7 @@
     "timeMonth": 865,
     "timeYear": 780,
     "dailyMinutesDown": {
+      "2025-07-15": 4,
       "2024-12-09": 21
     }
   },
@@ -118,11 +121,11 @@
     "url": "$KEYS_MANAGER_URL",
     "icon": "https://openai.com/favicon.ico",
     "slug": "panel-upravleniya-open-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 848,
     "timeDay": 1388,
@@ -130,6 +133,7 @@
     "timeMonth": 903,
     "timeYear": 810,
     "dailyMinutesDown": {
+      "2025-07-15": 4,
       "2025-01-08": 16,
       "2024-12-01": 17
     }
@@ -198,11 +202,11 @@
     "url": "https://b.trustytalk.com/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/b.trustytalk.com.ico",
     "slug": "image-bucket-tt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 1342,
     "timeDay": 729,
@@ -210,6 +214,7 @@
     "timeMonth": 1603,
     "timeYear": 1300,
     "dailyMinutesDown": {
+      "2025-07-15": 4,
       "2025-06-17": 53,
       "2025-02-18": 20,
       "2025-01-23": 35,
@@ -223,18 +228,20 @@
     "url": "https://online-wars.ru/up",
     "icon": "https://icons.duckduckgo.com/ip3/online-wars.ru.ico",
     "slug": "atom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 873,
     "timeDay": 633,
     "timeWeek": 719,
     "timeMonth": 1005,
     "timeYear": 898,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 3
+    }
   },
   {
     "name": "Tinyp",
@@ -267,10 +274,10 @@
     "url": "https://dev.playbalagan.com/up",
     "icon": "https://icons.duckduckgo.com/ip3/dev.playbalagan.com.ico",
     "slug": "dev-balagan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 792,
@@ -278,7 +285,9 @@
     "timeWeek": 745,
     "timeMonth": 819,
     "timeYear": 792,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 2
+    }
   },
   {
     "name": "TG Agents",
@@ -303,10 +312,10 @@
     "url": "https://artecospb.ru/up",
     "icon": "https://icons.duckduckgo.com/ip3/artecospb.ru.ico",
     "slug": "art-eko",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1246,
@@ -314,7 +323,9 @@
     "timeWeek": 867,
     "timeMonth": 1186,
     "timeYear": 1246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 1
+    }
   },
   {
     "name": "AiPush.Bid",
@@ -357,9 +368,9 @@
     "url": "https://bibliofan.ru/up",
     "icon": "https://icons.duckduckgo.com/ip3/bibliofan.ru.ico",
     "slug": "bibliofan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
@@ -369,6 +380,7 @@
     "timeMonth": 1140,
     "timeYear": 1140,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2025-06-15": 77
     }
   }
