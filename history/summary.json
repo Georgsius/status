@@ -334,10 +334,10 @@
     "url": "https://aipush.bid/up",
     "icon": "https://icons.duckduckgo.com/ip3/aipush.bid.ico",
     "slug": "ai-push-bid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 941,
@@ -345,7 +345,9 @@
     "timeWeek": 778,
     "timeMonth": 747,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-25": 1
+    }
   },
   {
     "name": "DEV CosmoDocs",
