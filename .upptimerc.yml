@@ -66,6 +66,9 @@ sites:
   - name: Библиофан
     url: https://bibliofan.ru/up
 
+  - name: S3 Библиофан
+    url: https://i.bibliofan.ru/ping.txt
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
