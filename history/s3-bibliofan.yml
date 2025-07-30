@@ -1,7 +1,7 @@
 url: https://i.bibliofan.ru/ping.txt
-status: down
-code: 503
-responseTime: 1684
-lastUpdated: 2025-07-30T23:10:47.405Z
+status: up
+code: 200
+responseTime: 1350
+lastUpdated: 2025-07-30T23:24:46.938Z
 startTime: 2025-07-27T19:24:54.230Z
 generator: Upptime <https://github.com/upptime/upptime>
