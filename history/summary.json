@@ -120,7 +120,7 @@
     "icon": "https://openai.com/favicon.ico",
     "slug": "panel-upravleniya-open-ai",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -375,10 +375,10 @@
     "url": "https://bibliofan.ru/up",
     "icon": "https://icons.duckduckgo.com/ip3/bibliofan.ru.ico",
     "slug": "bibliofan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 941,
@@ -387,6 +387,7 @@
     "timeMonth": 1094,
     "timeYear": 941,
     "dailyMinutesDown": {
+      "2025-11-10": 1,
       "2025-07-15": 54,
       "2025-06-15": 77
     }
