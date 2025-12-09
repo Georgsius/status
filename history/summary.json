@@ -56,7 +56,7 @@
     "timeDay": 809,
     "timeWeek": 890,
     "timeMonth": 1126,
-    "timeYear": 952,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2025-07-15": 58
     }
@@ -67,7 +67,7 @@
     "icon": "https://www.wireguard.com/img/icons/favicon-256.png",
     "slug": "wireguard-personal",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -100,7 +100,7 @@
     "timeDay": 569,
     "timeWeek": 664,
     "timeMonth": 680,
-    "timeYear": 1181,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2024-12-28": 160,
       "2024-12-27": 39,
@@ -334,10 +334,10 @@
     "url": "https://aipush.bid/up",
     "icon": "https://icons.duckduckgo.com/ip3/aipush.bid.ico",
     "slug": "ai-push-bid",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
     "time": 950,
@@ -346,6 +346,7 @@
     "timeMonth": 868,
     "timeYear": 950,
     "dailyMinutesDown": {
+      "2025-12-09": 1,
       "2025-07-28": 699,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
