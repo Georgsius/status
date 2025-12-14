@@ -21,10 +21,6 @@ sites:
   - name: Brain Bot
     url: https://brainbot.info/
     icon: https://brainbot.info/favicon.ico
-
-  - name: Панель управления OpenAI
-    url: $KEYS_MANAGER_URL
-    icon: https://openai.com/favicon.ico
     
   - name: TrustyTalk
     url: https://trustytalk.com/
@@ -43,22 +39,11 @@ sites:
   - name: Atom
     url: https://online-wars.ru/up
 
-  - name: Tinyp
-    check: "tcp-ping"
-    url: 147.45.227.73
-    port: 7766
-
   - name: DEV Balagan
     url: https://dev.playbalagan.com/up
 
-  - name: TG Agents
-    url: https://tgagents.net/up
-
   - name: АртЭко
     url: https://artecospb.ru/up
-
-  - name: AiPush.Bid
-    url: https://aipush.bid/up
 
   - name: DEV CosmoDocs
     url: https://dev.cosmodocs.ru
