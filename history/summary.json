@@ -134,7 +134,7 @@
     "icon": "https://trustytalk.com/favicon.ico",
     "slug": "trusty-talk-telegram",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "99.77%",
@@ -266,10 +266,10 @@
     "url": "https://dev.cosmodocs.ru",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cosmodocs.ru.ico",
     "slug": "dev-cosmo-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1481,
@@ -277,7 +277,9 @@
     "timeWeek": 1187,
     "timeMonth": 1278,
     "timeYear": 1481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-06": 1
+    }
   },
   {
     "name": "Библиофан",
@@ -365,11 +367,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/elixirai.ru.ico",
     "slug": "eliksir",
     "status": "up",
-    "uptime": "33.56%",
+    "uptime": "34.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.56%",
-    "uptimeYear": "33.56%",
+    "uptimeMonth": "34.73%",
+    "uptimeYear": "34.73%",
     "time": 902,
     "timeDay": 554,
     "timeWeek": 935,
