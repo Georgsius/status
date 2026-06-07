@@ -35,18 +35,9 @@ sites:
 
   - name: Image Bucket TT
     url: https://b.trustytalk.com/robots.txt
-    
-  - name: Atom
-    url: https://online-wars.ru/up
-
-  - name: DEV Balagan
-    url: https://dev.playbalagan.com/up
 
   - name: АртЭко
     url: https://artecospb.ru/up
-
-  - name: DEV CosmoDocs
-    url: https://dev.cosmodocs.ru
 
   - name: Библиофан
     url: https://bibliofan.ru/up
@@ -56,9 +47,6 @@ sites:
 
   - name: Фиджики
     url: https://fidg.ru/up
-
-  - name: Пиксвет
-    url: https://piksvet.ru/up
     
   - name: Эликсир
     url: https://elixirai.ru/up
