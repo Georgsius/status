@@ -96,10 +96,10 @@
     "url": "https://brainbot.info/",
     "icon": "https://brainbot.info/favicon.ico",
     "slug": "brain-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "86.60%",
-    "uptimeWeek": "98.09%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "98.08%",
     "uptimeMonth": "98.41%",
     "uptimeYear": "99.80%",
     "time": 651,
@@ -113,7 +113,8 @@
       "2026-05-23": 162,
       "2026-05-26": 112,
       "2026-05-27": 392,
-      "2026-06-24": 193
+      "2026-06-24": 193,
+      "2026-06-25": 0
     }
   },
   {
@@ -300,11 +301,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/elixirai.ru.ico",
     "slug": "eliksir",
     "status": "up",
-    "uptime": "82.46%",
+    "uptime": "82.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.46%",
+    "uptimeYear": "82.55%",
     "time": 915,
     "timeDay": 3788,
     "timeWeek": 1365,
