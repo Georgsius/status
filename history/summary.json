@@ -73,13 +73,13 @@
     "url": "$WIREGUARD_PERSONAL_URL",
     "icon": "https://www.wireguard.com/img/icons/favicon-256.png",
     "slug": "wireguard-personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.86%",
-    "time": 334,
+    "time": 333,
     "timeDay": 292,
     "timeWeek": 319,
     "timeMonth": 324,
@@ -88,7 +88,8 @@
       "2026-04-02": 102,
       "2026-04-20": 91,
       "2026-05-23": 167,
-      "2026-05-27": 397
+      "2026-05-27": 397,
+      "2026-06-26": 5
     }
   },
   {
@@ -96,10 +97,10 @@
     "url": "https://brainbot.info/",
     "icon": "https://brainbot.info/favicon.ico",
     "slug": "brain-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "75.31%",
-    "uptimeWeek": "94.56%",
+    "uptimeDay": "75.28%",
+    "uptimeWeek": "94.55%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "99.73%",
     "time": 651,
@@ -114,7 +115,8 @@
       "2026-05-26": 112,
       "2026-05-27": 392,
       "2026-06-24": 193,
-      "2026-06-25": 356
+      "2026-06-25": 356,
+      "2026-06-26": 1
     }
   },
   {
@@ -301,11 +303,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/elixirai.ru.ico",
     "slug": "eliksir",
     "status": "up",
-    "uptime": "82.62%",
+    "uptime": "82.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.62%",
+    "uptimeYear": "82.70%",
     "time": 912,
     "timeDay": 701,
     "timeWeek": 1349,
