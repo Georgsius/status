@@ -48,8 +48,8 @@ sites:
   - name: Фиджики
     url: https://fidg.ru/up
     
-  - name: Эликсир
-    url: https://elixirai.ru/up
+  - name: 3D-бот
+    url: https://bot3d.ru/up
 
   - name: DC
     url: https://$DC_URL/up
