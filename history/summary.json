@@ -308,12 +308,12 @@
     "url": "https://elixirai.ru/up",
     "icon": "https://icons.duckduckgo.com/ip3/elixirai.ru.ico",
     "slug": "eliksir",
-    "status": "up",
-    "uptime": "83.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "83.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.94%",
+    "uptimeYear": "83.99%",
     "time": 939,
     "timeDay": 931,
     "timeWeek": 867,
@@ -339,7 +339,8 @@
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
-      "2026-03-08": 938
+      "2026-03-08": 938,
+      "2026-07-05": 1
     }
   },
   {
