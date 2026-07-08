@@ -51,6 +51,10 @@ sites:
   - name: 3D-бот
     url: https://bot3d.ru/up
 
+  - name: BAMBUDDY
+    url: $BAMBUDDY_URL
+    icon: https://bambuddy.cool/assets/img/favicon-32x32.png
+
   - name: DC
     url: https://$DC_URL/up
 
