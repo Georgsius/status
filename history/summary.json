@@ -13,7 +13,7 @@
     "time": 970,
     "timeDay": 936,
     "timeWeek": 931,
-    "timeMonth": 1364,
+    "timeMonth": 1384,
     "timeYear": 1067,
     "dailyMinutesDown": {
       "2026-03-14": 37,
@@ -35,7 +35,7 @@
     "time": 815,
     "timeDay": 910,
     "timeWeek": 685,
-    "timeMonth": 1160,
+    "timeMonth": 1175,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2026-03-14": 42,
@@ -57,7 +57,7 @@
     "time": 1142,
     "timeDay": 1457,
     "timeWeek": 1209,
-    "timeMonth": 2408,
+    "timeMonth": 2439,
     "timeYear": 1223,
     "dailyMinutesDown": {
       "2026-03-14": 24,
@@ -79,7 +79,7 @@
     "time": 335,
     "timeDay": 446,
     "timeWeek": 354,
-    "timeMonth": 353,
+    "timeMonth": 352,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2026-04-02": 102,
@@ -106,7 +106,7 @@
     "time": 652,
     "timeDay": 612,
     "timeWeek": 574,
-    "timeMonth": 590,
+    "timeMonth": 591,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2026-04-02": 101,
@@ -136,7 +136,7 @@
     "time": 1428,
     "timeDay": 1704,
     "timeWeek": 1467,
-    "timeMonth": 1936,
+    "timeMonth": 1951,
     "timeYear": 1421,
     "dailyMinutesDown": {
       "2025-08-05": 26,
@@ -159,7 +159,7 @@
     "time": 948,
     "timeDay": 1666,
     "timeWeek": 895,
-    "timeMonth": 1496,
+    "timeMonth": 1522,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2025-08-05": 26,
@@ -182,7 +182,7 @@
     "time": 289,
     "timeDay": 356,
     "timeWeek": 305,
-    "timeMonth": 305,
+    "timeMonth": 304,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2026-04-02": 100,
@@ -195,7 +195,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/b.trustytalk.com.ico",
     "slug": "image-bucket-tt",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -203,7 +203,7 @@
     "time": 1368,
     "timeDay": 1100,
     "timeWeek": 1140,
-    "timeMonth": 1776,
+    "timeMonth": 1800,
     "timeYear": 1317,
     "dailyMinutesDown": {
       "2025-08-11": 20,
@@ -228,7 +228,7 @@
     "time": 961,
     "timeDay": 1036,
     "timeWeek": 1453,
-    "timeMonth": 1354,
+    "timeMonth": 1241,
     "timeYear": 920,
     "dailyMinutesDown": {}
   },
@@ -246,7 +246,7 @@
     "time": 925,
     "timeDay": 892,
     "timeWeek": 1073,
-    "timeMonth": 1243,
+    "timeMonth": 1261,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2025-11-10": 27
@@ -266,7 +266,7 @@
     "time": 1377,
     "timeDay": 5981,
     "timeWeek": 1981,
-    "timeMonth": 1709,
+    "timeMonth": 1734,
     "timeYear": 1377,
     "dailyMinutesDown": {
       "2025-08-11": 19,
@@ -289,7 +289,7 @@
     "time": 950,
     "timeDay": 1016,
     "timeWeek": 1182,
-    "timeMonth": 1299,
+    "timeMonth": 1311,
     "timeYear": 950,
     "dailyMinutesDown": {}
   },
@@ -299,11 +299,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot3d.ru.ico",
     "slug": "3-d-bot",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 983,
     "timeDay": 1056,
     "timeWeek": 962,
@@ -318,23 +318,24 @@
     "url": "$BAMBUDDY_URL",
     "icon": "https://bambuddy.cool/assets/img/favicon-32x32.png",
     "slug": "bambuddy",
-    "status": "up",
-    "uptime": "60.89%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "62.69%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "56.64%",
-    "uptimeMonth": "60.89%",
-    "uptimeYear": "60.89%",
-    "time": 456,
-    "timeDay": 723,
-    "timeWeek": 409,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "uptimeMonth": "62.69%",
+    "uptimeYear": "62.69%",
+    "time": 445,
+    "timeDay": 505,
+    "timeWeek": 400,
+    "timeMonth": 445,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2026-07-09": 75,
       "2026-07-12": 1378,
       "2026-07-11": 752,
       "2026-07-14": 724,
-      "2026-07-13": 1440
+      "2026-07-13": 1440,
+      "2026-07-16": 1
     }
   },
   {
@@ -351,7 +352,7 @@
     "time": 473,
     "timeDay": 513,
     "timeWeek": 491,
-    "timeMonth": 499,
+    "timeMonth": 494,
     "timeYear": 473,
     "dailyMinutesDown": {}
   }
