@@ -1,7 +1,7 @@
 url: $BAMBUDDY_URL
-status: down
-code: 502
-responseTime: 600
-lastUpdated: 2026-07-17T11:39:37.548Z
+status: up
+code: 200
+responseTime: 741
+lastUpdated: 2026-07-17T12:45:43.089Z
 startTime: 2026-07-08T07:04:52.779Z
 generator: Upptime <https://github.com/upptime/upptime>
