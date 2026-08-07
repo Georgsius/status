@@ -21,20 +21,6 @@ sites:
   - name: Brain Bot
     url: https://brainbot.info/
     icon: https://brainbot.info/favicon.ico
-    
-  - name: TrustyTalk
-    url: https://trustytalk.com/
-    icon: https://trustytalk.com/favicon.ico
-
-  - name: TrustyTalk Telegram
-    url: https://t.trustytalk.com/up
-    icon: https://trustytalk.com/favicon.ico
-
-  - name: Thumbor TT
-    url: http://80.76.60.25/healthcheck
-
-  - name: Image Bucket TT
-    url: https://b.trustytalk.com/robots.txt
 
   - name: АртЭко
     url: https://artecospb.ru/up
