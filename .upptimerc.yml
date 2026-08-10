@@ -5,10 +5,6 @@ sites:
   - name: Е-досье
     url: https://e-ecolog.ru
     icon: https://e-ecolog.ru/favicon.ico
-    
-  - name: Sendy
-    url: https://sendy.e-ecolog.ru
-    icon: https://sendy.e-ecolog.ru/img/favicon.png
         
   - name: Postal
     url: https://postal.e-ecolog.ru
