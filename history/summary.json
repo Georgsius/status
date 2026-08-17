@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.45%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.94%",
     "time": 1013,
     "timeDay": 591,
-    "timeWeek": 783,
+    "timeWeek": 835,
     "timeMonth": 1135,
     "timeYear": 1054,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
     "uptimeYear": "99.97%",
     "time": 1220,
     "timeDay": 960,
-    "timeWeek": 1624,
+    "timeWeek": 1732,
     "timeMonth": 1905,
     "timeYear": 1295,
     "dailyMinutesDown": {
@@ -57,7 +57,7 @@
     "uptimeYear": "99.32%",
     "time": 337,
     "timeDay": 250,
-    "timeWeek": 307,
+    "timeWeek": 311,
     "timeMonth": 336,
     "timeYear": 337,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
     "uptimeYear": "99.20%",
     "time": 645,
     "timeDay": 352,
-    "timeWeek": 520,
+    "timeWeek": 523,
     "timeMonth": 552,
     "timeYear": 639,
     "dailyMinutesDown": {
@@ -114,7 +114,7 @@
     "uptimeYear": "100.00%",
     "time": 993,
     "timeDay": 512,
-    "timeWeek": 1647,
+    "timeWeek": 1780,
     "timeMonth": 1408,
     "timeYear": 971,
     "dailyMinutesDown": {}
@@ -132,7 +132,7 @@
     "uptimeYear": "99.99%",
     "time": 932,
     "timeDay": 591,
-    "timeWeek": 682,
+    "timeWeek": 707,
     "timeMonth": 1013,
     "timeYear": 912,
     "dailyMinutesDown": {
@@ -152,7 +152,7 @@
     "uptimeYear": "99.96%",
     "time": 1372,
     "timeDay": 921,
-    "timeWeek": 1266,
+    "timeWeek": 1276,
     "timeMonth": 1302,
     "timeYear": 1360,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1015,
     "timeDay": 723,
-    "timeWeek": 1739,
+    "timeWeek": 1880,
     "timeMonth": 1493,
     "timeYear": 1015,
     "dailyMinutesDown": {}
@@ -192,7 +192,7 @@
     "uptimeYear": "99.87%",
     "time": 1096,
     "timeDay": 804,
-    "timeWeek": 1206,
+    "timeWeek": 1297,
     "timeMonth": 1140,
     "timeYear": 1096,
     "dailyMinutesDown": {
@@ -204,17 +204,17 @@
     "url": "$BAMBUDDY_URL",
     "icon": "https://bambuddy.cool/assets/img/favicon-32x32.png",
     "slug": "bambuddy",
-    "status": "up",
-    "uptime": "91.35%",
-    "uptimeDay": "95.06%",
+    "status": "down",
+    "uptime": "91.54%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.29%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "91.35%",
-    "time": 570,
-    "timeDay": 351,
-    "timeWeek": 591,
-    "timeMonth": 613,
-    "timeYear": 570,
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "91.54%",
+    "time": 562,
+    "timeDay": 280,
+    "timeWeek": 560,
+    "timeMonth": 597,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2026-07-09": 75,
       "2026-07-12": 1378,
@@ -225,7 +225,8 @@
       "2026-07-17": 66,
       "2026-07-25": 129,
       "2026-08-03": 219,
-      "2026-08-16": 71
+      "2026-08-16": 71,
+      "2026-08-17": 0
     }
   },
   {
@@ -241,7 +242,7 @@
     "uptimeYear": "100.00%",
     "time": 479,
     "timeDay": 331,
-    "timeWeek": 404,
+    "timeWeek": 412,
     "timeMonth": 480,
     "timeYear": 479,
     "dailyMinutesDown": {}
