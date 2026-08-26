@@ -13,7 +13,7 @@
     "time": 1015,
     "timeDay": 547,
     "timeWeek": 707,
-    "timeMonth": 1120,
+    "timeMonth": 1018,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2026-03-14": 37,
@@ -36,7 +36,7 @@
     "time": 1225,
     "timeDay": 1017,
     "timeWeek": 1102,
-    "timeMonth": 1848,
+    "timeMonth": 1874,
     "timeYear": 1276,
     "dailyMinutesDown": {
       "2026-03-14": 24,
@@ -58,7 +58,7 @@
     "time": 336,
     "timeDay": 267,
     "timeWeek": 303,
-    "timeMonth": 322,
+    "timeMonth": 323,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2026-04-02": 102,
@@ -115,7 +115,7 @@
     "time": 1002,
     "timeDay": 627,
     "timeWeek": 1016,
-    "timeMonth": 1538,
+    "timeMonth": 1560,
     "timeYear": 979,
     "dailyMinutesDown": {}
   },
@@ -133,7 +133,7 @@
     "time": 931,
     "timeDay": 715,
     "timeWeek": 873,
-    "timeMonth": 962,
+    "timeMonth": 969,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2025-11-10": 27
@@ -153,7 +153,7 @@
     "time": 1369,
     "timeDay": 866,
     "timeWeek": 1206,
-    "timeMonth": 1287,
+    "timeMonth": 1293,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-11-24": 119,
@@ -175,7 +175,7 @@
     "time": 1009,
     "timeDay": 625,
     "timeWeek": 755,
-    "timeMonth": 1304,
+    "timeMonth": 1227,
     "timeYear": 1009,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 1059,
     "timeDay": 866,
     "timeWeek": 808,
-    "timeMonth": 989,
+    "timeMonth": 970,
     "timeYear": 1059,
     "dailyMinutesDown": {
       "2026-07-05": 81
@@ -204,17 +204,17 @@
     "url": "$BAMBUDDY_URL",
     "icon": "https://bambuddy.cool/assets/img/favicon-32x32.png",
     "slug": "bambuddy",
-    "status": "down",
-    "uptime": "82.70%",
-    "uptimeDay": "34.26%",
-    "uptimeWeek": "28.93%",
-    "uptimeMonth": "82.95%",
-    "uptimeYear": "82.70%",
-    "time": 656,
-    "timeDay": 1646,
-    "timeWeek": 971,
-    "timeMonth": 724,
-    "timeYear": 656,
+    "status": "up",
+    "uptime": "82.69%",
+    "uptimeDay": "34.28%",
+    "uptimeWeek": "28.82%",
+    "uptimeMonth": "82.92%",
+    "uptimeYear": "82.69%",
+    "time": 705,
+    "timeDay": 1944,
+    "timeWeek": 1168,
+    "timeMonth": 802,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2026-07-09": 75,
       "2026-07-12": 1378,
@@ -228,11 +228,12 @@
       "2026-08-16": 71,
       "2026-08-17": 16,
       "2026-08-20": 466,
-      "2026-08-25": 937,
+      "2026-08-25": 946,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
-      "2026-08-21": 1440
+      "2026-08-21": 1440,
+      "2026-08-26": 2
     }
   },
   {
@@ -249,7 +250,7 @@
     "time": 499,
     "timeDay": 396,
     "timeWeek": 717,
-    "timeMonth": 530,
+    "timeMonth": 536,
     "timeYear": 499,
     "dailyMinutesDown": {}
   }
