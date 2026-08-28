@@ -205,11 +205,11 @@
     "icon": "https://bambuddy.cool/assets/img/favicon-32x32.png",
     "slug": "bambuddy",
     "status": "down",
-    "uptime": "83.43%",
-    "uptimeDay": "99.97%",
+    "uptime": "83.39%",
+    "uptimeDay": "97.77%",
     "uptimeWeek": "37.26%",
-    "uptimeMonth": "82.86%",
-    "uptimeYear": "83.43%",
+    "uptimeMonth": "82.79%",
+    "uptimeYear": "83.39%",
     "time": 691,
     "timeDay": 328,
     "timeWeek": 1220,
@@ -234,7 +234,7 @@
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-26": 36,
-      "2026-08-28": 0
+      "2026-08-28": 32
     }
   },
   {
