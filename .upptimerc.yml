@@ -33,6 +33,12 @@ sites:
   - name: 3D-бот
     url: https://bot3d.ru/up
 
+  - name: Буква
+    url: https://bukva.ai/up
+
+  - name: Радиопедия
+    url: https://radiopaedia.ru/up
+
   - name: BAMBUDDY
     url: $BAMBUDDY_URL
     icon: https://bambuddy.cool/assets/img/favicon-32x32.png
