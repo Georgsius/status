@@ -50,26 +50,17 @@
     "icon": "https://www.wireguard.com/img/icons/favicon-256.png",
     "slug": "wireguard-personal",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "100.00%",
     "time": 337,
     "timeDay": 300,
     "timeWeek": 401,
     "timeMonth": 339,
     "timeYear": 338,
-    "dailyMinutesDown": {
-      "2026-04-02": 102,
-      "2026-04-20": 91,
-      "2026-05-23": 167,
-      "2026-05-27": 397,
-      "2026-06-26": 231,
-      "2026-07-01": 928,
-      "2026-06-30": 1440,
-      "2026-06-29": 209
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Brain Bot",
@@ -185,19 +176,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot3d.ru.ico",
     "slug": "3-d-bot",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "100.00%",
     "time": 1028,
     "timeDay": 724,
     "timeWeek": 946,
     "timeMonth": 915,
     "timeYear": 1028,
-    "dailyMinutesDown": {
-      "2026-07-05": 81
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Буква",
@@ -240,17 +229,17 @@
     "url": "$BAMBUDDY_URL",
     "icon": "https://bambuddy.cool/assets/img/favicon-32x32.png",
     "slug": "bambuddy",
-    "status": "up",
-    "uptime": "86.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "86.92%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "81.35%",
-    "uptimeYear": "86.83%",
-    "time": 726,
-    "timeDay": 674,
-    "timeWeek": 745,
-    "timeMonth": 852,
-    "timeYear": 726,
+    "uptimeYear": "86.92%",
+    "time": 720,
+    "timeDay": 375,
+    "timeWeek": 661,
+    "timeMonth": 839,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2026-07-09": 75,
       "2026-07-12": 1378,
@@ -272,7 +261,8 @@
       "2026-08-26": 36,
       "2026-08-28": 286,
       "2026-08-30": 306,
-      "2026-09-01": 290
+      "2026-09-01": 290,
+      "2026-09-15": 1
     }
   },
   {
