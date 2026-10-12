@@ -241,11 +241,11 @@
     "icon": "https://bambuddy.cool/assets/img/favicon-32x32.png",
     "slug": "bambuddy",
     "status": "up",
-    "uptime": "89.22%",
+    "uptime": "89.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.73%",
-    "uptimeYear": "89.22%",
+    "uptimeYear": "89.26%",
     "time": 870,
     "timeDay": 927,
     "timeWeek": 1274,
@@ -284,19 +284,19 @@
     "url": "https://$DC_URL/up",
     "icon": "https://icons.duckduckgo.com/ip3/$dc_url.ico",
     "slug": "dc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "59.58%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.70%",
     "time": 512,
-    "timeDay": 530,
-    "timeWeek": 640,
+    "timeDay": 534,
+    "timeWeek": 628,
     "timeMonth": 555,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2026-10-12": 1
+      "2026-10-12": 582
     }
   }
 ]
