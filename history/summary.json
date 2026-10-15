@@ -240,17 +240,17 @@
     "url": "$BAMBUDDY_URL",
     "icon": "https://bambuddy.cool/assets/img/favicon-32x32.png",
     "slug": "bambuddy",
-    "status": "down",
-    "uptime": "89.59%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.27%",
-    "uptimeYear": "89.59%",
-    "time": 867,
-    "timeDay": 483,
-    "timeWeek": 784,
-    "timeMonth": 1261,
-    "timeYear": 867,
+    "status": "up",
+    "uptime": "89.47%",
+    "uptimeDay": "87.18%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "89.47%",
+    "time": 868,
+    "timeDay": 679,
+    "timeWeek": 816,
+    "timeMonth": 1256,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2026-07-09": 75,
       "2026-07-12": 1378,
@@ -277,7 +277,7 @@
       "2026-09-16": 291,
       "2026-09-17": 1072,
       "2026-09-25": 272,
-      "2026-10-15": 1
+      "2026-10-15": 185
     }
   },
   {
