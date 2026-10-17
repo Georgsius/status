@@ -37,7 +37,7 @@
     "timeDay": 1353,
     "timeWeek": 1285,
     "timeMonth": 1252,
-    "timeYear": 1311,
+    "timeYear": 1312,
     "dailyMinutesDown": {
       "2026-03-14": 24,
       "2026-04-02": 102,
@@ -116,7 +116,7 @@
     "timeDay": 832,
     "timeWeek": 834,
     "timeMonth": 793,
-    "timeYear": 968,
+    "timeYear": 958,
     "dailyMinutesDown": {}
   },
   {
@@ -134,7 +134,7 @@
     "timeDay": 736,
     "timeWeek": 776,
     "timeMonth": 740,
-    "timeYear": 909,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2025-11-10": 27
     }
@@ -154,7 +154,7 @@
     "timeDay": 1629,
     "timeWeek": 1515,
     "timeMonth": 1277,
-    "timeYear": 1353,
+    "timeYear": 1354,
     "dailyMinutesDown": {
       "2025-11-24": 119,
       "2026-02-21": 25,
@@ -240,17 +240,17 @@
     "url": "$BAMBUDDY_URL",
     "icon": "https://bambuddy.cool/assets/img/favicon-32x32.png",
     "slug": "bambuddy",
-    "status": "down",
-    "uptime": "89.38%",
-    "uptimeDay": "71.49%",
-    "uptimeWeek": "95.50%",
-    "uptimeMonth": "95.87%",
-    "uptimeYear": "89.38%",
-    "time": 858,
-    "timeDay": 591,
-    "timeWeek": 714,
-    "timeMonth": 1012,
-    "timeYear": 858,
+    "status": "up",
+    "uptime": "89.21%",
+    "uptimeDay": "61.88%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "95.36%",
+    "uptimeYear": "89.21%",
+    "time": 861,
+    "timeDay": 652,
+    "timeWeek": 765,
+    "timeMonth": 1043,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2026-07-09": 75,
       "2026-07-12": 1378,
@@ -278,7 +278,8 @@
       "2026-09-17": 1072,
       "2026-09-25": 272,
       "2026-10-15": 185,
-      "2026-10-16": 270
+      "2026-10-16": 502,
+      "2026-10-17": 47
     }
   },
   {
